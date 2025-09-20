@@ -1,0 +1,13 @@
+# Goal
+int64 x_position
+int64 y_position
+int64 yaw_angle
+---
+# Result
+bool success
+string message
+---
+# Feedback
+int64 current_x_position
+int64 current_y_position
+int64 current_yaw_angle
