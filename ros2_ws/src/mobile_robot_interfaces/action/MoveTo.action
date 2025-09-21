@@ -1,13 +1,13 @@
 # Goal
-int64 x_position
-int64 y_position
-int64 yaw_angle
+float64 x_position
+float64 y_position
+float64 yaw_angle
 ---
 # Result
 bool success
 string message
 ---
 # Feedback
-int64 current_x_position
-int64 current_y_position
-int64 current_yaw_angle
+float64 current_x_position
+float64 current_y_position
+float64 current_yaw_angle
